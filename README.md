@@ -1,4 +1,4 @@
-Files and quick start
+# Files and quick start
 
 ```
 demo_data.csv   800 cases + 800 controls simulated from Scenario 1 of the paper; columns id, Y, X1, X2, X3
